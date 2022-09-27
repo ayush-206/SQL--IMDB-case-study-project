@@ -19,4 +19,4 @@ As we can see in the above diagram, there are some common columns in both tables
 <br>Question 11: Which movie(s) were directed by Brenda Chapman?</br>
 <br>Question 12: Whose director made the most movies?</br>
 <br>Question 13: Whose director is the most bankable?</br>
-<br>To get the solution of above questions, <a href="case study solution.sql">click here</a></br>
+<br>To get the solution of above questions, <a href="https://github.com/ayush-206/SQL--IMDB-case-study-project/blob/main/Case%20study%20solution.sql">click here</a></br>
